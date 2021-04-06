@@ -59,7 +59,7 @@ const CardInfo = () => {
                     <IconButton aria-label="settings">
                         <MoreVertIcon />
                     </IconButton>
-                }
+                } 
                 title="Shrimp and Chorizo Paella"
                 subheader="September 14, 2016"
             />
